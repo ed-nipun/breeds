@@ -1,17 +1,22 @@
 {
-  "lastUpdated": "2024-08-15",
-  "breeds": [
-    {
-      "name": "Golden Retriever",
-      "group": "Sporting",
-      "size": "Large",
-      "origin": "Scotland"
-    },
-    {
-      "name": "German Shepherd", 
-      "group": "Herding",
-      "size": "Large",
-      "origin": "Germany"
-    }
+  "Dog": [
+    { "value": "golden_retriever", "label": "Golden Retriever" },
+    { "value": "labrador_retriever", "label": "Labrador Retriever" },
+    { "value": "french_bulldog", "label": "French Bulldog" }
+  ],
+  "Cat": [
+    { "value": "siamese", "label": "Siamese" },
+    { "value": "persian", "label": "Persian" },
+    { "value": "maine_coon", "label": "Maine Coon" }
+  ],
+  "Bird": [
+    { "value": "parrot", "label": "Parrot" },
+    { "value": "cockatiel", "label": "Cockatiel" }
+  ],
+  "Rabbit": [
+    { "value": "holland_lop", "label": "Holland Lop" }
+  ],
+  "Other": [
+    { "value": "other", "label": "Other / Mix" }
   ]
 }
