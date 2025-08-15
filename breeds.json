@@ -1,22 +1,56 @@
 {
   "Dog": [
-    { "value": "golden_retriever", "label": "Golden Retrieverrrrxxx" },
-    { "value": "labrador_retriever", "label": "Labrador Retriever" },
-    { "value": "french_bulldog", "label": "French Bulldog" }
+    {
+      "value": "french_bulldog",
+      "label": "French Bulldog"
+    },
+    {
+      "value": "golden_retriever",
+      "label": "Golden Retrieverrrrxxx"
+    },
+    {
+      "value": "good-dog",
+      "label": "good dog"
+    },
+    {
+      "value": "labrador_retriever",
+      "label": "Labrador Retriever"
+    }
   ],
   "Cat": [
-    { "value": "siamese", "label": "Siamese" },
-    { "value": "persian", "label": "Persian" },
-    { "value": "maine_coon", "label": "Maine Coon" }
+    {
+      "value": "siamese",
+      "label": "Siamese"
+    },
+    {
+      "value": "persian",
+      "label": "Persian"
+    },
+    {
+      "value": "maine_coon",
+      "label": "Maine Coon"
+    }
   ],
   "Bird": [
-    { "value": "parrot", "label": "Parrot" },
-    { "value": "cockatiel", "label": "Cockatiel" }
+    {
+      "value": "parrot",
+      "label": "Parrot"
+    },
+    {
+      "value": "cockatiel",
+      "label": "Cockatiel"
+    }
   ],
   "Rabbit": [
-    { "value": "holland_lop", "label": "Holland Lop" }
+    {
+      "value": "holland_lop",
+      "label": "Holland Lop"
+    }
   ],
   "Other": [
-    { "value": "other", "label": "Other / Mix" }
+    {
+      "value": "other",
+      "label": "Other / Mix"
+    }
   ]
 }
